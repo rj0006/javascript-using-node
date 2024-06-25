@@ -53,7 +53,7 @@ let name = "Rahul", repoCount = 5;
 
 const gameName = new String('Harswetic Computer education...')
 // return in the string object here (with gameName give multi methods)
-// console.log(gameName.__proto__);
+// console.log(gameName.__proto__); // we will direct access predefine method.
 // console.log(gameName.length);
 // console.log(gameName.toUpperCase());
 // const newString = gameName.substring(0, 8);
